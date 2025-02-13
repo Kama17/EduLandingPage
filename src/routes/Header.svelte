@@ -5,11 +5,11 @@
 
 </script>
 
-<Navbar class="dark:bg-gray-900 py-0">
+<!--Navbar class="dark:bg-gray-900 py-0">
 	<NavBrand href="/">
 	  <span class="text-lg font-bold p-5">Learn 2 Trade Pro</span>
 	</NavBrand>
 	<NavHamburger />
 	<NavUl>
 	</NavUl>
-  </Navbar>
+  </Navbar-->

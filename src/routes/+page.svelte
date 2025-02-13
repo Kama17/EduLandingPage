@@ -106,7 +106,7 @@
 	</Modal>
 
 
-	<Modal bind:open={replyModal} title="Dziękujemy za Twoją wiadomość!!!" size="xs" autoclose={false} class="w-full animate__animated animate__fadeIn animate__delay-.5s">
+	<Modal bind:open={replyModal} title="Dziękuję za Twoją wiadomość!!!" size="xs" autoclose={false} class="w-full animate__animated animate__fadeIn animate__delay-.5s">
 		<div class="flex flex-col items-center text-center space-y-4">
 			<CheckCircleOutline class="text-green-500 w-12 h-12 animate__animated animate__bounceIn" />
 			<p>Twoje zapytanie zostało pomyślnie wysłane. Skontaktuję się z Tobą najszybciej, jak to możliwe - zazwyczaj w ciągu 24 godzin.</p>
